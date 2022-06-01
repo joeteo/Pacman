@@ -1,0 +1,14 @@
+../Core/Src/main.c:171:5:main	376	static
+../Core/Src/main.c:317:6:SystemClock_Config	88	static
+../Core/Src/main.c:369:12:readJoystick	4	static
+../Core/Src/main.c:382:6:MoveCharacter	16	static
+../Core/Src/main.c:412:6:DisplayLCD	32	static
+../Core/Src/main.c:432:6:MoveEnemy	24	static
+../Core/Src/main.c:452:6:DisplayEnemy	32	static
+../Core/Src/main.c:457:14:GameCHK	32	static
+../Core/Src/main.c:499:6:LevelupInit	24	static
+../Core/Src/main.c:513:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:518:6:StartSound	8	static
+../Core/Src/main.c:530:6:LoseSound	8	static
+../Core/Src/main.c:545:6:WinSound	8	static
+../Core/Src/main.c:579:6:Error_Handler	4	static,ignoring_inline_asm
